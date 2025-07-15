@@ -5,7 +5,7 @@ export class AppService {
   getHello(): any {
     return {
       Status: 200,
-      message: 'Success',
+      message: 'Hello Nitesh and EX',
     };
   }
 }
